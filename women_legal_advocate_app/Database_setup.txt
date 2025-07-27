@@ -1,0 +1,50 @@
+
+---
+
+## 🗃️ Database Setup
+
+### ✅ Database: `women_application`
+
+1. Import `women_application.sql` using phpMyAdmin.
+2. Default Admin:
+   - Email: `gayathri12@gmail.com`
+   - Password: `gayi2812` (stored as MD5)
+
+---
+
+## 🛠️ Technologies Used
+- PHP 8.1+
+- MySQL
+- HTML, CSS, Bootstrap
+- JavaScript (minimal)
+- [TCPDF](https://tcpdf.org/) for PDF generation
+
+---
+
+## 🧪 Features Checklist
+
+✅ Admin authentication  
+✅ Advocate registration with approval  
+✅ User problem posting and solution tracking  
+✅ Feedback and rating system  
+✅ PDF export for both users and advocates  
+✅ Session-based authentication and secure routing  
+✅ Fully responsive using Bootstrap
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone or download the project.
+2. Start your local server (XAMPP/WAMP).
+3. Create the database and import `women_application.sql`.
+4. Place the project in `htdocs/` or equivalent.
+5. Visit `http://localhost/women_legal_advocate_app/index.php`.
+
+---
+
+## 🙏 Credits
+Developed for academic and empowerment purposes to support legal access for women.
+
+---
+
