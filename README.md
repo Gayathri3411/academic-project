@@ -136,7 +136,7 @@ How can admins ensure only trusted advocates are approved?
 ⚖️ Advocate Dashboard
 
 🔧 Admin Dashboard
-![Screenshot]
+![Screenshot](https://github.com/Gayathri3411/academic-project/blob/main/women_legal_advocate_app/assets/images/law-women.png)
 🏗️ 7. System Modules
 Admin
 
