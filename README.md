@@ -1,12 +1,11 @@
 ## 🌐 Women Legal Advocate Finder App
 ## 📌 1. Project Title
 
-#Women Legal Advocate Finder – Web Application for Legal Support
+# Women Legal Advocate Finder – Web Application for Legal Support
 
 ## 📝 2. Description
 
-The Women Legal Advocate Finder App is a web-based platform designed to empower women by providing quick and easy access to verified legal advocates. Many women struggle to find trustworthy legal help during critical times due to lack of awareness, accessibility issues, and the complexity of legal procedures. This system bridges that gap by offering a secure, user-friendly, and structured online solution.
-
+The Women Legal Advocate Finder App is a web-based platform designed to empower women by providing quick and easy access to verified legal advocates. Many women struggle to find trustworthy legal help during critical times due to lack of awareness, accessibility issues, and the complexity of legal procedures. This system bridges that gap by offering a secure, user-friendly, and structured online solution.  
 The application allows users to register, post their legal problems, and connect with approved advocates specializing in various legal areas such as domestic violence, harassment, discrimination, family disputes, and more. Advocates can register, create profiles, respond to cases, and assist users based on their expertise. An administrator oversees the system by validating advocate profiles and managing platform activities to ensure safety and authenticity.
 
 With features like role-based access, problem posting, advocate search, profile management, interactive dashboards, feedback system, and admin approval process, the project demonstrates strong capabilities in web development, security, data modelling, and user-centric design.
