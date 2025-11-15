@@ -247,3 +247,5 @@ Mobile application (Android/iOS)
 Notification alert system
 
 PDF export for case files
+
+![Documentation](https://github.com/Gayathri3411/academic-project/blob/main/Women%20Legal%20Advocate%20Finder%20Documentation.pdf)
