@@ -137,8 +137,8 @@ How can admins ensure only trusted advocates are approved?
 
 🔧 Admin Dashboard
 ![Screenshot](https://github.com/Gayathri3411/academic-project/blob/main/women_legal_advocate_app/assets/images/law-women.png)
-🏗️ 7. System Modules
-Admin
+## 🏗️ 7. System Modules
+**Admin**
 
 Login
 
@@ -146,7 +146,7 @@ Approve Advocate Profiles
 
 View Users
 
-Advocate
+**Advocate**
 
 Register/Login
 
@@ -156,7 +156,7 @@ Search Women’s Problems
 
 Update/Delete Profile
 
-User
+**User**
 
 Register/Login
 
@@ -166,7 +166,7 @@ Post Legal Problems
 
 Manage Profile
 
-🗃️ 8. Database Design
+## 🗃️ 8. Database Design
 
 Major Tables:
 
@@ -186,7 +186,7 @@ admin
 
 Includes PK/FK relationships to maintain data consistency.
 
-🔧 9. Implementation Overview
+## 🔧 9. Implementation Overview
 
 HTML5/CSS3 for layout
 
@@ -200,9 +200,9 @@ MySQL for relational data storage
 
 Secure role-based authentication
 
-🧪 10. System Testing
+## 🧪 10. System Testing
 
-Testing methods used:
+**Testing methods used:**
 
 Unit Testing
 
@@ -214,7 +214,7 @@ Security Testing
 
 Usability Testing
 
-Validated:
+**Validated:**
 
 Registration & Login
 
@@ -226,11 +226,11 @@ Feedback
 
 Session management & access control
 
-✅ 11. Conclusion
+## ✅ 11. Conclusion
 
 The Women Legal Advocate Finder App successfully provides a practical, accessible, and secure platform for connecting women with legal professionals. The system improves the process of seeking legal help, enhances user safety, and ensures advocates are verified before offering solutions.
 
-🚀 12. Future Enhancements
+## 🚀 12. Future Enhancements
 
 Real-time chat between users & advocates
 
