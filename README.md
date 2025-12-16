@@ -1,7 +1,7 @@
-## Women Legal Advocate Finder App
+# Women Legal Advocate Finder App
 ## 1. Project Title
 
-# Women Legal Advocate Finder – Web Application for Legal Support
+### Women Legal Advocate Finder – Web Application for Legal Support
 
 ## 2. Description
 
