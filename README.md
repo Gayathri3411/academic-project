@@ -45,7 +45,7 @@ Responsive UI Design
 ## 4. Data Source
 
 The system uses a custom-designed MySQL database created for the project.
-The database stores:
+**The database stores:**
 
 User details
 
@@ -168,7 +168,7 @@ Manage Profile
 
 ## 8. Database Design
 
-Major Tables:
+**Major Tables:**
 
 user
 
