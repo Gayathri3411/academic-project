@@ -14,7 +14,7 @@ With features like role-based access, problem posting, advocate search, profile 
 This application is ideal for academic purposes, real-world deployment concepts, and portfolio presentation, reflecting practical implementation of technologies like HTML5, CSS3, Bootstrap, PHP, MySQL, AngularJS, and secure authentication practices.
 
 ## 3. Tech Stack
-Frontend
+**Frontend**
 
 HTML5
 
@@ -26,7 +26,7 @@ AngularJS
 
 JavaScript
 
-Backend
+**Backend**
 
 PHP 8.1
 
@@ -34,7 +34,7 @@ MySQL Database
 
 XAMPP Server
 
-Other Tools
+**Other Tools**
 
 SQL
 
