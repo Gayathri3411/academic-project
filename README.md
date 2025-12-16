@@ -61,7 +61,7 @@ Admin accounts
 
 All tables follow normalized structure and maintain referential integrity.
 
-## 5. Features / Highlights
+## 5. Features
 **User Features**
 
 Register & Login
@@ -128,7 +128,7 @@ How can advocates efficiently find relevant cases?
 
 How can admins ensure only trusted advocates are approved?
 
-## 6. Screenshots / Demo
+## 6. Screenshots
 Home Page
 
 User Dashboard
