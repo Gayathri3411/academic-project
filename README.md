@@ -1,9 +1,9 @@
-## 🌐 Women Legal Advocate Finder App
-## 📌 1. Project Title
+## Women Legal Advocate Finder App
+## 1. Project Title
 
 # Women Legal Advocate Finder – Web Application for Legal Support
 
-## 📝 2. Description
+## 2. Description
 
 The Women Legal Advocate Finder App is a web-based platform designed to empower women by providing quick and easy access to verified legal advocates. Many women struggle to find trustworthy legal help during critical times due to lack of awareness, accessibility issues, and the complexity of legal procedures. This system bridges that gap by offering a secure, user-friendly, and structured online solution.
 
@@ -13,7 +13,7 @@ With features like role-based access, problem posting, advocate search, profile 
 
 This application is ideal for academic purposes, real-world deployment concepts, and portfolio presentation, reflecting practical implementation of technologies like HTML5, CSS3, Bootstrap, PHP, MySQL, AngularJS, and secure authentication practices.
 
-## 🧰 3. Tech Stack
+## 3. Tech Stack
 Frontend
 
 HTML5
@@ -42,7 +42,7 @@ MD5 Encryption (Passwords)
 
 Responsive UI Design
 
-## 🗂️ 4. Data Source
+## 4. Data Source
 
 The system uses a custom-designed MySQL database created for the project.
 The database stores:
@@ -61,8 +61,8 @@ Admin accounts
 
 All tables follow normalized structure and maintain referential integrity.
 
-## 🌟 5. Features / Highlights
-**👩 User Features**
+## 5. Features / Highlights
+**User Features**
 
 Register & Login
 
@@ -76,7 +76,7 @@ View advocate responses
 
 Manage personal profile
 
-**⚖️ Advocate Features**
+**Advocate Features**
 
 Register & Login
 
@@ -90,7 +90,7 @@ Manage own profile
 
 Search problems based on expertise
 
-**🛡️ Admin Features**
+**Admin Features**
 
 Secure admin login
 
@@ -100,7 +100,7 @@ Manage and view all users and advocates
 
 Monitor system activity
 
-**🔐 Security Features**
+**Security Features**
 
 Encrypted passwords (MD5)
 
@@ -110,7 +110,7 @@ Session validation
 
 Data validation on client & server side
 
-**🎨 UI/UX**
+**UI/UX**
 
 Clean, responsive dark-themed interface
 
@@ -118,7 +118,7 @@ Easy navigation for all user roles
 
 Mobile-friendly design
 
-**❓ Key Problem Statements Solved**
+**Key Problem Statements Solved**
 
 How can women find verified legal advocates quickly?
 
@@ -128,16 +128,16 @@ How can advocates efficiently find relevant cases?
 
 How can admins ensure only trusted advocates are approved?
 
-## 🖼️ 6. Screenshots / Demo
-🏠 Home Page
+## 6. Screenshots / Demo
+Home Page
 
-👩 User Dashboard
+User Dashboard
 
-⚖️ Advocate Dashboard
+Advocate Dashboard
 
-🔧 Admin Dashboard
+Admin Dashboard
 ![Screenshot](https://github.com/Gayathri3411/academic-project/blob/main/women_legal_advocate_app/assets/images/law-women.png)
-## 🏗️ 7. System Modules
+## 7. System Modules
 **Admin**
 
 Login
@@ -166,7 +166,7 @@ Post Legal Problems
 
 Manage Profile
 
-## 🗃️ 8. Database Design
+## 8. Database Design
 
 Major Tables:
 
@@ -186,7 +186,7 @@ admin
 
 Includes PK/FK relationships to maintain data consistency.
 
-## 🔧 9. Implementation Overview
+## 9. Implementation Overview
 
 HTML5/CSS3 for layout
 
@@ -200,7 +200,7 @@ MySQL for relational data storage
 
 Secure role-based authentication
 
-## 🧪 10. System Testing
+## 10. System Testing
 
 **Testing methods used:**
 
@@ -226,11 +226,11 @@ Feedback
 
 Session management & access control
 
-## ✅ 11. Conclusion
+## 11. Conclusion
 
 The Women Legal Advocate Finder App successfully provides a practical, accessible, and secure platform for connecting women with legal professionals. The system improves the process of seeking legal help, enhances user safety, and ensures advocates are verified before offering solutions.
 
-## 🚀 12. Future Enhancements
+## 12. Future Enhancements
 
 Real-time chat between users & advocates
 
